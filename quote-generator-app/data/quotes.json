@@ -1,0 +1,112 @@
+{
+  "motivational": [
+    {
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "quote": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius"
+    },
+    {
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "quote": "Your time is limited, don't waste it living someone else's life.",
+      "author": "Steve Jobs"
+    },
+    {
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    }
+  ],
+  "technology": [
+    {
+      "quote": "The advance of technology is based on making it fit in so that you don't really even notice it.",
+      "author": "Bill Gates"
+    },
+    {
+      "quote": "It's not that we use technology, we live technology.",
+      "author": "Godfrey Reggio"
+    },
+    {
+      "quote": "Any sufficiently advanced technology is indistinguishable from magic.",
+      "author": "Arthur C. Clarke"
+    },
+    {
+      "quote": "Technology is best when it brings people together.",
+      "author": "Matt Mullenweg"
+    },
+    {
+      "quote": "The human spirit must prevail over technology.",
+      "author": "Albert Einstein"
+    }
+  ],
+  "creativity": [
+    {
+      "quote": "Creativity is intelligence having fun.",
+      "author": "Albert Einstein"
+    },
+    {
+      "quote": "Every child is an artist. The problem is how to remain an artist once we grow up.",
+      "author": "Pablo Picasso"
+    },
+    {
+      "quote": "You can't use up creativity. The more you use, the more you have.",
+      "author": "Maya Angelou"
+    },
+    {
+      "quote": "Creativity is contagious, pass it on.",
+      "author": "Albert Einstein"
+    },
+    {
+      "quote": "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.",
+      "author": "Scott Adams"
+    }
+  ],
+  "leadership": [
+    {
+      "quote": "Leadership is not about being in charge. It is about taking care of those in your charge.",
+      "author": "Simon Sinek"
+    },
+    {
+      "quote": "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the people to do the greatest things.",
+      "author": "Ronald Reagan"
+    },
+    {
+      "quote": "A leader is one who knows the way, goes the way, and shows the way.",
+      "author": "John C. Maxwell"
+    },
+    {
+      "quote": "Innovation distinguishes between a leader and a follower.",
+      "author": "Steve Jobs"
+    },
+    {
+      "quote": "Leadership and learning are indispensable to each other.",
+      "author": "John F. Kennedy"
+    }
+  ],
+  "life": [
+    {
+      "quote": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon"
+    },
+    {
+      "quote": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama"
+    },
+    {
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "quote": "Life is 10% what happens to you and 90% how you react to it.",
+      "author": "Charles R. Swindoll"
+    }
+  ]
+}

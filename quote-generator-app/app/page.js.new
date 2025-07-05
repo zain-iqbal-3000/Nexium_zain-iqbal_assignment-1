@@ -1,0 +1,14 @@
+import dynamic from "next/dynamic";
+
+// Use dynamic import with SSR disabled to prevent hydration errors with form
+const QuoteGenerator = dynamic(() => import("../components/QuoteGenerator"), {
+  ssr: false,
+});
+
+export default function Home() {
+  return (
+    <div className="min-h-screen">
+      <QuoteGenerator />
+    </div>
+  );
+}
