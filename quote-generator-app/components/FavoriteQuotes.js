@@ -47,8 +47,7 @@ export default function FavoriteQuotes() {
           strokeWidth="2"
           strokeLinecap="round"
           strokeLinejoin="round"
-          className="w-12 h-12 mx-auto mb-4 text-stone-400 dark:text-stone-500"
-        >
+          className="w-12 h-12 mx-auto mb-4 text-stone-400 dark:text-stone-500">
           <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z" />
         </svg>
         <h3 className="text-xl font-semibold text-stone-700 dark:text-stone-300 mb-2">No favorites yet</h3>
@@ -81,7 +80,7 @@ export default function FavoriteQuotes() {
       {filteredFavorites.length === 0 && searchTerm && (
         <div className="text-center py-6">
           <p className="text-stone-500 dark:text-stone-400">
-            No quotes found matching "{searchTerm}"
+           // No quotes found matching "{searchTerm}"
           </p>
         </div>
       )}
