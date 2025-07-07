@@ -80,7 +80,7 @@ export default function FavoriteQuotes() {
       {filteredFavorites.length === 0 && searchTerm && (
         <div className="text-center py-6">
           <p className="text-stone-500 dark:text-stone-400">
-           // No quotes found matching "{searchTerm}"
+            No quotes found matching &quot;{searchTerm}&quot;
           </p>
         </div>
       )}
