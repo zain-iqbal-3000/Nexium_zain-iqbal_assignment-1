@@ -135,7 +135,7 @@ export default function QuoteGenerator() {
               >
                 <CardContent className="pt-6">
                   <div className="relative">
-                    <span className="absolute -top-5 left-0 text-6xl opacity-20 font-serif text-stone-400 dark:text-stone-500">"</span>
+                    <span className="absolute -top-5 left-0 text-6xl opacity-20 font-serif text-stone-400 dark:text-stone-500"></span>
                     <blockquote className="pl-5 italic text-stone-700 dark:text-stone-100">
                       {quote.quote}
                     </blockquote>
